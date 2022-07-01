@@ -1,6 +1,10 @@
 .wy-side-nav-search {
     background-color: #343131;
 }
+.wy-side-nav-search>a img.logo {
+    height: 100px;
+}
+
 .wy-menu-vertical header,
 .wy-menu-vertical p.caption {
     color: #ff8504;
